@@ -15,6 +15,7 @@
 ### Graph at timestamp 20000
 ![Graph at timestamp 20000](timestamp_end.png)
 
-
+### GIF
+![ANIMATION](animated.gif)
 ### Clean
 > make clean
