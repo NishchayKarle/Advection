@@ -39,5 +39,9 @@
 | ---------------------- | --- | --- | --- |
 | Grind Rate in Billions | 0.4 | 1.4 | 5.4 |
 
+### Running Code
+* Compile - use makefile
+* Run : mpirun -np {ranks} ./{exectuable} N NT L T u v
+
 ### ACK
 * Worked with Tina Oberoi
